@@ -185,8 +185,8 @@ Developed and deployed full-stack web applications in a professional engineering
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meetnakrani007&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Meetnakrani007&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meetnakrani007&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetnakrani007&layout=donut&theme=midnight-purple&hide_border=true&langs_count=6" height="180" />
 </p>
 
 <p align="center">
@@ -198,7 +198,7 @@ Developed and deployed full-stack web applications in a professional engineering
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meetnakrani007&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meetnakrani007&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </p>
 
 ---
