@@ -36,7 +36,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetnakrani007&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="300" />
 
 I'm a **final-year B.Tech CSE student** at Charusat University and a **Software Developer Intern at TeqnoDux**, building production-grade full-stack systems with a strong focus on developer experience and clean architecture.
 
@@ -185,20 +184,17 @@ Developed and deployed full-stack web applications in a professional engineering
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meetnakrani007&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meetnakrani007&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetnakrani007&layout=donut&theme=midnight-purple&hide_border=true&langs_count=6" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetnakrani007&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
-</p>
 
 ---
 
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meetnakrani007&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meetnakrani007&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </p>
 
 ---
