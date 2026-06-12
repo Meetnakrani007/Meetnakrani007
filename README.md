@@ -194,7 +194,7 @@ Developed and deployed full-stack web applications in a professional engineering
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meetnakrani007&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" />
+  <img src="https://ryo-ma.github.io/github-profile-trophy/?username=Meetnakrani007&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4&title=MultiLanguage,Commits,Repositories,Stars,Issues,Followers" />
 </p>
 
 ---
