@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSE-Charusat%20University-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-8.24%2F10-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/CGPA-8.5%2F10-6D28D9?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat-5B21B6?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
 
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Meet%20Nakrani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Meetnakrani007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-meet--nakrani-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Meetnakrani007-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -139,9 +139,9 @@ A community-driven tool that became infrastructure — demonstrating the ability
 ## 💼 Experience
 
 ### Software Developer Intern — TeqnoDux, Surat
-**May 2025 – Present**
+**May 2025 – July 2025**
 
-Developing and deploying full-stack web applications in a professional engineering environment with a focus on production quality, collaborative development, and containerized deployment.
+Developed and deployed full-stack web applications in a professional engineering environment with a focus on production quality, collaborative development, and containerized deployment.
 
 - Built **EduSupport Portal** with ticket management, private messaging, and helpful post features serving **50+ active users**
 - Containerized the application with **Docker**, reducing cross-environment setup time by **~70%**
@@ -166,7 +166,7 @@ Developing and deploying full-stack web applications in a professional engineeri
 | **LeetCode 400+ Problems** | Solved 400+ DSA problems — Arrays, Strings, Stack, Queue, Sliding Window, Hashing, BST, Binary Trees |
 | **Codeforces MCP Tools Launch** | 190+ weekly downloads within 2 days of publishing on Smithery — open-source with growing community adoption |
 | **SoulCity Integration** | Stream directory adopted as a core feature by the soulcity.live GTA V roleplay platform |
-| **Academic Excellence** | B.Tech CGPA 8.24 · HSC 93.53 Percentile · SSC 94.76 Percentile |
+| **Academic Excellence** | B.Tech CGPA 8.5 · HSC 93.53 Percentile · SSC 94.76 Percentile |
 
 </div>
 
@@ -178,6 +178,7 @@ Developing and deploying full-stack web applications in a professional engineeri
   <a href="https://leetcode.com/u/meet_nakrani_007/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+</p>
 
 ---
 
@@ -185,7 +186,7 @@ Developing and deploying full-stack web applications in a professional engineeri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meetnakrani007&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meetnakrani007&theme=midnight-purple&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Meetnakrani007&theme=midnight-purple&hide_border=true" height="180" />
 </p>
 
 <p align="center">
@@ -197,7 +198,7 @@ Developing and deploying full-stack web applications in a professional engineeri
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meetnakrani007&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meetnakrani007&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
